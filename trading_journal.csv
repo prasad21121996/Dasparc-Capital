@@ -1,3 +1,15 @@
-﻿Date,Instrument,Direction,Entry,SL,Target,Exit,Size,Risk,RRR,Result,P&L,Entry Reason,Exit Reason,Mistakes/Emotions,Notes,Trade Type,Currency,P&L (INR)
-05/05/2024,Adani Port Stocks,Short,1347.97,1356,1314,1352.3,40,500,3,Loss,-173.1,Support/Resistance,Trailing Stop,FOMO,Perfect trade,Intra Day,INR,-173.1
-05/05/2024,Tata Motor Stocks,Long,662.8,660,672,661.65,250,500,3,Loss,-287.5,,,,,,,
+﻿Date,Instrument,Direction,Entry,SL,Target,Exit,Size,Risk,RRR,Result,P&L,Entry Reason,Exit Reason,Mistakes/Emotions,Notes,Trade Type,Currency,P&L (INR),Status,Funds INR
+04/06/2025,Greaves Cotton,Long,205,174.34,288,,97.84735812,3000,2.707110241,,,Double bottom,,,,Weekly Day,INR,,Active,20058.70841
+04/06/2025,DODLA Dairy,Long,1316,1263,1485,,56.60377358,3000,3.188679245,,,Weekly Breakout,,,,Weekly Day,INR,,Active,74490.56603
+04/06/2025,MANAPPURAM,Long,237,219.35,270,,169.9716714,3000,1.869688385,,,Momentum PNF Breakout,,,,Weekly Day,INR,,Active,40283.28612
+04/06/2025,DALMIA,Long,2016,1888,2400,,23.4375,3000,3,,,Zone 1 Breakout,,,,Weekly Day,INR,,Order Placed,47250
+04/06/2025,SBI Card,Long,943,887,1113,,53.57142857,3000,3.035714286,,,Zone 1 Breakout,,,,Weekly Day,INR,,Order Placed,50517.85714
+04/06/2025,Orient Cement,Long,342,313,445,,103.4482759,3000,3.551724138,,,Contraction,,,,Weekly Day,INR,,Order Placed,35379.31036
+04/06/2025,KRBL,Long,367,350,424,,176.4705882,3000,3.352941176,,,Phase 1 Breakout continue,,,,Weekly Day,INR,,Active,64764.70587
+04/06/2025,Apollo TUBE,Long,1866,1762,2225,,28.84615385,3000,3.451923077,,, Breakout continue,,,,Weekly Day,INR,,Order Placed,53826.92308
+04/06/2025,ERIS LIFESCIENCES,Long,1600,1505,1835,,31.57894737,3000,2.473684211,,, Breakout continue,,,,Weekly Day,INR,,Active,50526.31579
+04/06/2025,CITY UNION BANK,Long,199,180.5,243,,162.1621622,3000,2.378378378,,, Breakout continue,,,,Weekly Day,INR,,Order Placed,32270.27028
+04/06/2025,RADICO KHAITAN,Long,2700,2415,3151,,10.52631579,3000,1.58245614,,, Breakout continue,,,,Weekly Day,INR,,Active,28421.05263
+04/06/2025,FORTIS,Long,736,693,822,,69.76744186,3000,2,,, Breakout ,,,,Weekly Day,INR,,Order Placed,51348.83721
+04/06/2025,INDIAN BANK,Long,631,579,760,,57.69230769,3000,2.480769231,,, Breakout continue,,,,Weekly Day,INR,,Order Placed,36403.84615
+04/06/2025,GODREJ AGROVET,Long,808,765,895,,69.76744186,3000,2.023255814,,, Breakout of consodilation,,,,Weekly Day,INR,,Active,56372.09302
