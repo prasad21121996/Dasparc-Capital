@@ -1,8 +1,6 @@
 ﻿Date,Instrument,Direction,Entry,SL,Target,Exit,Size,Risk,RRR,Result,P&L,Entry Reason,Exit Reason,Mistakes/Emotions,Notes,Trade Type,Currency,P&L (INR),Status,Funds INR
 04/06/2025,Greaves Cotton,Long,205,174.34,288,,97.84735812,3000,2.707110241,,,Double bottom,,,,Weekly Day,INR,0,Active,20058.70841
 04/06/2025,DALMIA,Long,2016,1888,2400,,23.4375,3000,3,,,Zone 1 Breakout,,,,Weekly Day,INR,0,Order Placed,47250
-04/06/2025,SBI Card,Long,943,887,1113,,53.57142857,3000,3.035714286,,,Zone 1 Breakout,,,,Weekly Day,INR,0,Active,50517.85714
-04/06/2025,Apollo TUBE,Long,1866,1762,2225,,28.84615385,3000,3.451923077,,, Breakout continue,,,,Weekly Day,INR,0,Active,53826.92308
 04/06/2025,CITY UNION BANK,Long,199,180.5,243,,162.1621622,3000,2.378378378,,, Breakout continue,,,,Weekly Day,INR,0,Active,32270.27027
 04/06/2025,RADICO KHAITAN,Long,2700,2415,3151,,10.52631579,3000,1.58245614,,, Breakout continue,,,,Weekly Day,INR,0,Active,28421.05263
 04/06/2025,INDIAN BANK,Long,631,579,760,,57.69230769,3000,2.480769231,,, Breakout continue,,,,Weekly Day,INR,0,Active,36403.84615
@@ -14,3 +12,5 @@
 12/06/2025,ERIS LIFESCIENCES,Long,1600,1505,1835,1832.8,31,3000,2.473684211,Profit,7216.8, Breakout continue,Take Profit Hit,,,Weekly Day,INR,7216.8,Closed,49600
 18/06/2025,MANAPPURAM,Long,237,219.35,270,267.62,169.9716714,3000,1.869688385,Profit,5204.532578,Momentum PNF Breakout,Trailing Stop Loss Hit,,,Weekly Day,INR,5204.532578,Closed,40283.28612
 18/06/2025,KRBL,Long,367,350,424,348.95,176,3000,3.352941176,Loss,-3176.8,Phase 1 Breakout continue,SL Hit,,,Weekly Day,INR,-3176.8,Closed,64592
+19/06/2025,SBI Card,Long,943,887,1113,966.67,53.57142857,3000,3.035714286,Profit,1268.035714,Zone 1 Breakout,Trailing Stop Loss Hit,,,Weekly Day,INR,1268.035714,Closed,50517.85714
+19/06/2025,Apollo TUBE,Long,1866,1762,2225,1763.1,28.84615385,3000,3.451923077,Loss,-2968.269231, Breakout continue,SL Hit,,,Weekly Day,INR,-2968.269231,Closed,53826.92308
