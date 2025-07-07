@@ -5,20 +5,21 @@
 04/06/2025,RADICO KHAITAN,Long,2700,2415,3151,,10.52631579,3000,1.58245614,,, Breakout continue,,,,Weekly Day,INR,0,Active,28421.05263
 04/06/2025,INDIAN BANK,Long,631,579,760,,57.69230769,3000,2.480769231,,, Breakout continue,,,,Weekly Day,INR,0,Active,36403.84615
 04/06/2025,GODREJ AGROVET,Long,808,765,895,765.05,69.76744186,3000,2.023255814,Loss,-2996.511628, Breakout of consodilation,SL Hit,,,Weekly Day,INR,-2996.511628,Closed,56372.09302
-04/06/2025,OAL,Long,378,346,488,,53.125,1700,3.4375,,,Zone 1 Breakout,,,,Weekly Day,INR,0,Active,20081.25
-04/06/2025,HOME First Finance Company ,Long,1278,1212,1597,1211.15,24,1600,4.833333333,Loss,-1604.4,cup and handle ,SL Hit,"The stop loss was set too tight and I didn’t consider the Average True Range (ATR) on the weekly chart to determine an appropriate stop loss level.",,Weekly Day,INR,-1604.4,Closed,30672
+04/06/2025,OAL,Long,378,346,488,365.19,53,1700,3.4375,,-678.93,Zone 1 Breakout,,,,Weekly Day,INR,-678.93,Closed,20034
+04/06/2025,HOME First Finance Company ,Long,1278,1212,1597,1211.15,24,1600,4.833333333,Loss,-1604.4,cup and handle ,SL Hit,"The stop loss was set too tight, and I didn’t consider the Average True Range (ATR) on the weekly chart to determine an appropriate stop loss level.",,Weekly Day,INR,-1604.4,Closed,30672
 06/06/2025,laurus labs,Long,645,579.8,790,,46.01226994,3000,2.22392638,,,Daimod patter ,,,,Weekly Day,INR,0,Active,29677.91411
-12/06/2025,DODLA Dairy,Long,1316,1263,1485,1312.5,56,3000,3.188679245,Loss,-196,Weekly Breakout,Trailing Stop Loss Hit,"The stop loss was based on the daily chart ATR but the trailing stop step was too tight which caused the trailing stop loss to be triggered prematurely.",,Weekly Day,INR,-196,Closed,73696
-12/06/2025,ERIS LIFESCIENCES,Long,1600,1505,1835,1832.8,31,3000,2.473684211,Profit,7216.8, Breakout continue,Take Profit Hit,,"W - CMO 41 CRSI 0.06 RSI 63",Weekly Day,INR,7216.8,Closed,49600
+12/06/2025,DODLA Dairy,Long,1316,1263,1485,1312.5,56,3000,3.188679245,Loss,-196,Weekly Breakout,Trailing Stop Loss Hit,"The stop loss was based on the daily chart ATR, but the trailing stop step was too tight, which caused the trailing stop loss to be triggered prematurely.",,Weekly Day,INR,-196,Closed,73696
+12/06/2025,ERIS LIFESCIENCES,Long,1600,1505,1835,1832.8,31,3000,2.473684211,Profit,7216.8, Breakout continue,Take Profit Hit,,"W - CMO 41 , CRSI 0.06 , RSI 63",Weekly Day,INR,7216.8,Closed,49600
 18/06/2025,MANAPPURAM,Long,237,219.35,270,267.62,169.9716714,3000,1.869688385,Profit,5204.532578,Momentum PNF Breakout,Trailing Stop Loss Hit,,,Weekly Day,INR,5204.532578,Closed,40283.28612
 18/06/2025,KRBL,Long,367,350,424,348.95,176,3000,3.352941176,Loss,-3176.8,Phase 1 Breakout continue,SL Hit,,,Weekly Day,INR,-3176.8,Closed,64592
 19/06/2025,SBI Card,Long,943,887,1113,966.67,53.57142857,3000,3.035714286,Profit,1268.035714,Zone 1 Breakout,Trailing Stop Loss Hit,,,Weekly Day,INR,1268.035714,Closed,50517.85714
 19/06/2025,Apollo TUBE,Long,1866,1762,2225,1763.1,28.84615385,3000,3.451923077,Loss,-2968.269231, Breakout continue,SL Hit,,,Weekly Day,INR,-2968.269231,Closed,53826.92308
-26/06/2025,CHOLAHLDNG,Long,2038.32,1925,2495,,26.47370279,3000,4.03000353,,,All time Breakout with cup and handle,,,,Weekly Day,INR,0,Active,53961.87787
+03/07/2025,CHOLAHLDNG,Long,2038.32,1925,2495,2103.18,23,3000,4.03000353,,1491.78,All time Breakout with cup and handle,,,,Weekly Day,INR,1491.78,Closed,46881.36
 26/06/2025,NAM-INDIA,Long,794,707,942,,47.12643678,4100,1.701149425,,,All time Breakout ,,,,Weekly Day,INR,0,Active,37418.3908
 26/06/2025,GILLETTE,Long,10321,9720,11576,,4.991680532,3000,2.088186356,,,All time Breakout ,,,,Weekly Day,INR,0,Cancelled,51519.13478
 26/06/2025,ASTERDM,Long,587,515,748,,54.16666667,3900,2.236111111,,, Breakout continue,,,,Weekly Day,INR,0,Active,31795.83333
 26/06/2025,LLOYDSME,Long,1514.5,1413,1863,,29.55665025,3000,3.433497537,,, Breakout continue,,,,Weekly Day,INR,0,Active,44763.5468
-26/06/2025,ENDURANCE,Long,2648,2370,3200,,10.79136691,3000,1.985611511,,, Breakout continue,,,,Weekly Day,INR,0,Active,28575.53957
+07/07/2025,ENDURANCE,Long,2648,2370,3200,2667.3,11,3000,1.985611511,,212.3, Breakout continue,,,,Weekly Day,INR,212.3,Closed,29128
 26/06/2025,Mahindra & Mahindra,Long,3207,3110,3575,,30.92783505,3000,3.793814433,,,All time Breakout ,,,,Weekly Day,INR,0,Active,99185.56701
 26/06/2025,SBFC Finance,Long,106.9,99.8,150,,422.5352113,3000,6.070422535,,,Consodulation Breakout And Retest,,,,Weekly Day,INR,0,Active,45169.01408
+07/07/2025,SBFC Finance,Long,106.9,99.8,150,113.5,422.5352113,3000,6.070422535,,2788.732394,Consodulation Breakout And Retest,,,,Weekly Day,INR,2788.732394,Closed,45169.01408
