@@ -6,7 +6,7 @@
 04/06/2025,GODREJ AGROVET,Long,808,765,895,765.05,69.76744186,3000,2.023255814,Loss,-2996.511628, Breakout of consodilation,SL Hit,,,Weekly Day,INR,-2996.511628,Closed,56372.09302
 04/06/2025,OAL,Long,378,346,488,365.19,53,1700,3.4375,Loss,-678.93,Zone 1 Breakout,Trailing Stop Loss Hit,,,Weekly Day,INR,-678.93,Closed,20034
 04/06/2025,HOME First Finance Company ,Long,1278,1212,1597,1211.15,24,1600,4.833333333,Loss,-1604.4,cup and handle ,SL Hit,The stop loss was set too tight and I didn’t consider the Average True Range (ATR) on the weekly chart to determine an appropriate stop loss level.,,Weekly Day,INR,-1604.4,Closed,30672
-06/06/2025,laurus labs,Long,645,579.8,790,,46.01226994,3000,2.22392638,,,Daimod patter ,,,,Weekly Day,INR,0,Active,29677.91411
+06/06/2025,laurus labs,Long,645,579.8,790,812.61,46.01226994,3000,2.22392638,Profit,7712.116564,Daimod patter ,Trailing Stop Loss Hit,,,Weekly Day,INR,7712.116564,Closed,29677.91411
 12/06/2025,DODLA Dairy,Long,1316,1263,1485,1312.5,56,3000,3.188679245,Loss,-196,Weekly Breakout,Trailing Stop Loss Hit,The stop loss was based on the daily chart ATR but the trailing stop step was too tight which caused the trailing stop loss to be triggered prematurely.,,Weekly Day,INR,-196,Closed,73696
 12/06/2025,ERIS LIFESCIENCES,Long,1600,1505,1835,1832.8,31,3000,2.473684211,Profit,7216.8, Breakout continue,Take Profit Hit,,W - CMO 41  CRSI 0.06  RSI 63,Weekly Day,INR,7216.8,Closed,49600
 18/06/2025,MANAPPURAM,Long,237,219.35,270,267.62,169.9716714,3000,1.869688385,Profit,5204.532578,Momentum PNF Breakout,Trailing Stop Loss Hit,,,Weekly Day,INR,5204.532578,Closed,40283.28612
@@ -28,6 +28,12 @@
 15/07/2025,APL Apollo Tubes,Long,1717,1618,2075,1615.22,30,2970,3.616161616,Loss,-3053.4,Support Level ,SL Hit,,W - CMO 7.40  CRSI 0.07  RSI 53 MVA above 40 52 ,Weekly Day,INR,-3053.4,Closed,51510
 15/07/2025,Astra Microwave Products,Long,999,912,1306,,34,2958,3.528735632,,,Support Level ,,,W - CMO 24.94  CRSI 0.04 avg 0.03  RSI 58 MVA above 40 52 ,Weekly Day,INR,0,Active,33966
 25/07/2025,DODLA Dairy,Long,1303,1200,1560,,30,3090,2.495145631,,,All time hight as support level but didn’t wait for revarsal,,,,Weekly Day,INR,0,Active,39090
-30/07/2025,Castrol,Long,220,207,272,,231,3003,4,,,Diamod Pattern,,,,Weekly Day,INR,0,Active,50820
 28/07/2025,Schneider Electric Infra,Long,934,883.25,1100,883.25,63,3197.25,3.270935961,Loss,-3197.25,All time Breakout ,SL Hit,,,Weekly Day,INR,-3197.25,Closed,58842
+30/07/2025,Castrol,Long,220,207,272,206.72,231,3003,4,Loss,-3067.68,Diamod Pattern,SL Hit,,,Weekly Day,INR,-3067.68,Closed,50820
 01/08/2025,Patanjali Foods,Long,1864.5,1814.5,2064,1813.41,60,3000,3.99,Loss,-3065.4,PULL BACK ,SL Hit,,,Weekly Day,INR,-3065.4,Closed,111870
+12/08/2025,HBL Engineering,Long,708.5,641.5,982.8,,44,2948,4.094029851,,,All time Breakout ,,,,Weekly Day,INR,0,Active,31174
+12/08/2025,Mastek,Long,2540,2440,2900,,30,3000,3.6,,,consodukation breakout,,,,Weekly Day,INR,0,Active,76200
+12/08/2025,Lupin,Long,1943,1875,2274,,42,2856,4.867647059,,,triangle breakout,,,,Weekly Day,INR,0,Active,81606
+12/08/2025,Eveready Industries,Long,408.5,388.95,479,,150,2932.5,3.606138107,,,VPC,,,,Weekly Day,INR,0,Active,61275
+14/08/2025,Supriya Lifescience,Short,634.39,652,600,652,34,598.74,1.952867689,Loss,-598.74,Try to Buy Closed possition Again ,To convert Trade,,,Daily,INR,-598.74,Closed,21569.26
+14/08/2025,Supriya Lifescience,Long,652,615,750,,86,3182,2.648648649,,,,,,,Weekly Day,INR,0,Active,56072
