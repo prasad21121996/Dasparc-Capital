@@ -1,8 +1,8 @@
 ﻿Date,Instrument,Direction,Entry,SL,Target,Exit,Size,Risk,RRR,Result,P&L,Entry Reason,Exit Reason,Mistakes/Emotions,Notes,Trade Type,Currency,P&L (INR),Status,Funds INR
 04/06/2025,Greaves Cotton,Long,205,174.34,288,204.75,97.84735812,3000,2.707110241,Loss,-24.46183953,Double bottom,Trailing Stop Loss Hit,,,Weekly Day,INR,-24.46183953,Closed,20058.70841
-04/06/2025,CITY UNION BANK,Long,199,180.5,243,197.5,162.1621622,3000,2.378378378,,-243.2432432, Breakout continue,,,,Weekly Day,INR,-243.2432432,Closed,32270.27027
+04/06/2025,CITY UNION BANK,Long,199,180.5,243,197.5,162.1621622,3000,2.378378378,Loss,-243.2432432, Breakout continue,,,,Weekly Day,INR,-243.2432432,Closed,32270.27027
 04/06/2025,RADICO KHAITAN,Long,2700,2415,3151,2582.82,10.52631579,3000,1.58245614,Loss,-1233.473684, Breakout continue,Trailing Stop Loss Hit,,,Weekly Day,INR,-1233.473684,Closed,28421.05263
-04/06/2025,INDIAN BANK,Long,631,579,760,669,57.69230769,3000,2.480769231,,2192.307692, Breakout continue,,,,Weekly Day,INR,2192.307692,Closed,36403.84615
+04/06/2025,INDIAN BANK,Long,631,579,760,669,57.69230769,3000,2.480769231,Profit,2192.307692, Breakout continue,,,,Weekly Day,INR,2192.307692,Closed,36403.84615
 04/06/2025,GODREJ AGROVET,Long,808,765,895,765.05,69.76744186,3000,2.023255814,Loss,-2996.511628, Breakout of consodilation,SL Hit,,,Weekly Day,INR,-2996.511628,Closed,56372.09302
 04/06/2025,OAL,Long,378,346,488,365.19,53,1700,3.4375,Loss,-678.93,Zone 1 Breakout,Trailing Stop Loss Hit,,,Weekly Day,INR,-678.93,Closed,20034
 04/06/2025,HOME First Finance Company ,Long,1278,1212,1597,1211.15,24,1600,4.833333333,Loss,-1604.4,cup and handle ,SL Hit,The stop loss was set too tight and I didn’t consider the Average True Range (ATR) on the weekly chart to determine an appropriate stop loss level.,,Weekly Day,INR,-1604.4,Closed,30672
@@ -13,27 +13,27 @@
 18/06/2025,KRBL,Long,367,350,424,348.95,176,3000,3.352941176,Loss,-3176.8,Phase 1 Breakout continue,SL Hit,,,Weekly Day,INR,-3176.8,Closed,64592
 19/06/2025,SBI Card,Long,943,887,1113,966.67,53.57142857,3000,3.035714286,Profit,1268.035714,Zone 1 Breakout,Trailing Stop Loss Hit,,,Weekly Day,INR,1268.035714,Closed,50517.85714
 19/06/2025,Apollo TUBE,Long,1866,1762,2225,1763.1,28.84615385,3000,3.451923077,Loss,-2968.269231, Breakout continue,SL Hit,,,Weekly Day,INR,-2968.269231,Closed,53826.92308
-26/06/2025,NAM-INDIA,Long,794,707,942,796.8,47,4089,1.701149425,,131.6,All time Breakout ,,,,Weekly Day,INR,131.6,Closed,37318
-26/06/2025,ASTERDM,Long,587,515,748,606,54,3888,2.236111111,,1026, Breakout continue,,,,Weekly Day,INR,1026,Closed,31698
+26/06/2025,NAM-INDIA,Long,794,707,942,796.8,47,4089,1.701149425,Profit,131.6,All time Breakout ,,,,Weekly Day,INR,131.6,Closed,37318
+26/06/2025,ASTERDM,Long,587,515,748,606,54,3888,2.236111111,Profit,1026, Breakout continue,,,,Weekly Day,INR,1026,Closed,31698
 26/06/2025,LLOYDSME,Long,1514.5,1413,1863,1410.94,30,3045,3.433497537,Loss,-3106.8, Breakout continue,SL Hit,,,Weekly Day,INR,-3106.8,Closed,45435
 26/06/2025,Mahindra & Mahindra,Long,3207,3110,3575,3110.08,32,3104,3.793814433,Loss,-3101.44,All time Breakout ,SL Hit,,,Weekly Day,INR,-3101.44,Closed,102624
-26/06/2025,SBFC Finance,Long,106.9,99.8,150,,429,3045.9,6.070422535,,,Consodulation Breakout And Retest,,,,Weekly Day,INR,0,Active,45860.1
+26/06/2025,SBFC Finance,Long,106.9,99.8,150,107.8,429,3045.9,6.070422535,Profit,386.1,Consodulation Breakout And Retest,Cut possition cause weekly trade with no movementum,,,Weekly Day,INR,386.1,Closed,45860.1
 03/07/2025,CHOLAHLDNG,Long,2038.32,1925,2495,2103.18,23,3000,4.03000353,Profit,1491.78,All time Breakout with cup and handle,Trailing Stop Loss Hit,,,Weekly Day,INR,1491.78,Closed,46881.36
 07/07/2025,ENDURANCE,Long,2648,2370,3200,2667.3,11,3058,1.985611511,Profit,212.3, Breakout continue,Trailing Stop Loss Hit,,,Weekly Day,INR,212.3,Closed,29128
 07/07/2025,SBFC Finance,Long,106.9,99.8,150,113.5,429,3045.9,6.070422535,Profit,2831.4,Consodulation Breakout And Retest,Take Profit Hit,,,Weekly Day,INR,2831.4,Closed,45860.1
 09/07/2025,CHOLAHLDNG,Long,2088.9,1925,2500,1907.8,26,4261.4,2.50823673,Loss,-4708.6,All time Breakout with cup and handle,SL Hit,,,Weekly Day,INR,-4708.6,Closed,54311.4
-09/07/2025,ENDURANCE,Long,2663.3,2377.8,3500,,11,3140.5,2.930647986,,,All Time Breakout Retest  ,,,,Weekly Day,INR,0,Active,29296.3
+09/07/2025,ENDURANCE,Long,2663.3,2377.8,3500,2893,11,3140.5,2.930647986,Profit,2526.7,All Time Breakout Retest  ,Cut possition cause weekly trade with no movementum,,,Weekly Day,INR,2526.7,Closed,29296.3
 09/07/2025,Patanjali Foods,Long,1655,1558,1990,1857.1,30,2910,3.453608247,Profit,6063,Support Level - 3 green doji with more than avg volumne,Trailing Stop Loss Hit,,W - CMO -55  CRSI 0.07 avg 0.7 RSI 42 MVA below 10 40 52 ,Weekly Day,INR,6063,Closed,49650
 15/07/2025,Supriya Lifescience,Long,725,634,1093,655.1,34,3094,4.043956044,Loss,-2376.6,Symmetrical Triangle,,,W - CMO 31  CRSI 0.03 avg 0.2 RSI 54 MVA above 40 52 ,Weekly Day,INR,-2376.6,Closed,24650
 15/07/2025,APL Apollo Tubes,Long,1717,1618,2075,1615.22,30,2970,3.616161616,Loss,-3053.4,Support Level ,SL Hit,,W - CMO 7.40  CRSI 0.07  RSI 53 MVA above 40 52 ,Weekly Day,INR,-3053.4,Closed,51510
 15/07/2025,Astra Microwave Products,Long,999,912,1306,,34,2958,3.528735632,,,Support Level ,,,W - CMO 24.94  CRSI 0.04 avg 0.03  RSI 58 MVA above 40 52 ,Weekly Day,INR,0,Active,33966
-25/07/2025,DODLA Dairy,Long,1303,1200,1560,,30,3090,2.495145631,,,All time hight as support level but didn’t wait for revarsal,,,,Weekly Day,INR,0,Active,39090
+25/07/2025,DODLA Dairy,Long,1303,1200,1560,1434,30,3090,2.495145631,Profit,3930,All time hight as support level but didn’t wait for revarsal,Cut possition cause weekly trade with no movementum,,,Weekly Day,INR,3930,Closed,39090
 28/07/2025,Schneider Electric Infra,Long,934,883.25,1100,883.25,63,3197.25,3.270935961,Loss,-3197.25,All time Breakout ,SL Hit,,,Weekly Day,INR,-3197.25,Closed,58842
 30/07/2025,Castrol,Long,220,207,272,206.72,231,3003,4,Loss,-3067.68,Diamod Pattern,SL Hit,,,Weekly Day,INR,-3067.68,Closed,50820
 01/08/2025,Patanjali Foods,Long,1864.5,1814.5,2064,1813.41,60,3000,3.99,Loss,-3065.4,PULL BACK ,SL Hit,,,Weekly Day,INR,-3065.4,Closed,111870
 12/08/2025,HBL Engineering,Long,708.5,641.5,982.8,909.84,44,2948,4.094029851,Profit,8858.96,All time Breakout ,Take Profit Hit change to 1:3, as it already 22% position size and sl need to change,,Weekly Day,INR,8858.96,Closed,31174
-12/08/2025,Mastek,Long,2540,2440,2900,2440,30,3000,3.6,,-3000,consodukation breakout,,,,Weekly Day,INR,-3000,Closed,76200
+12/08/2025,Mastek,Long,2540,2440,2900,2440,30,3000,3.6,Loss,-3000,consodukation breakout,,,,Weekly Day,INR,-3000,Closed,76200
 12/08/2025,Lupin,Long,1943,1875,2274,,42,2856,4.867647059,,,triangle breakout,,,,Weekly Day,INR,0,Active,81606
 12/08/2025,Eveready Industries,Long,408.5,388.95,479,,150,2932.5,3.606138107,,,VPC,,,,Weekly Day,INR,0,Active,61275
 14/08/2025,Supriya Lifescience,Short,634.39,652,600,652,34,598.74,1.952867689,Loss,-598.74,Try to Buy Closed possition Again ,To convert Trade,,,Daily,INR,-598.74,Closed,21569.26
-14/08/2025,Supriya Lifescience,Long,652,615,750,648.44,86,3182,2.648648649,,-306.16,,,,,Weekly Day,INR,-306.16,Closed,56072
+14/08/2025,Supriya Lifescience,Long,652,615,750,648.44,86,3182,2.648648649,Loss,-306.16,,,,,Weekly Day,INR,-306.16,Closed,56072
