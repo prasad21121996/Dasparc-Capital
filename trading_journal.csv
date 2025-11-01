@@ -37,24 +37,26 @@
 12/08/2025,Eveready Industries,Long,408.5,388.95,479,409.26,150,2932.5,3.606138107,Profit,114,VPC,Trailing Stop Loss Hit almost reach 1:4,,,Weekly Day,INR,114,Closed,61275
 14/08/2025,Supriya Lifescience,Short,634.39,652,600,652,34,598.74,1.952867689,Loss,-598.74,Try to Buy Closed possition Again ,To convert Trade,,,Daily,INR,-598.74,Closed,21569.26
 14/08/2025,Supriya Lifescience,Long,652,615,750,648.44,86,3182,2.648648649,Loss,-306.16,,,,,Weekly Day,INR,-306.16,Closed,56072
-19/09/2025,Godrej Industries,Long,1243.5,1181.09,1493.14,1181.09,80,4992.8,4,Loss,-4992.8,,,,,Daily,INR,-4992.8,Closed,99480
-22/09/2025,Flair Writing Industries,Long,339.45,318.23,424.33,318.23,250,5305,4,Loss,-5305,,,,,Daily,INR,-5305,Closed,84862.5
 16/09/2025,Welspun Corp,Long,924.79,,,875.77,111,102651.69,-1,Loss,-5441.22,,,,,Daily,INR,-5441.22,Closed,102651.69
 17/09/2025,Star Health Insurance,Long,452,,,,185,83620,-1,,,,,,,Daily,INR,0,,83620
 17/09/2025,Great Eastern Shipping Company,Long,1050.5,,,995.07,93,97696.5,-1,Loss,-5154.99,,,,,Daily,INR,-5154.99,Closed,97696.5
+17/09/2025,India pesticides,Long,235.84,,,219.77,333,78534.72,-1,Loss,-5351.31,,,,,Daily,INR,-5351.31,Closed,78534.72
+17/09/2025,karur vysya bank,Long,219,,,209.26,500,109500,-1,Loss,-4870,,,,,Daily,INR,-4870,Closed,109500
+19/09/2025,Godrej Industries,Long,1243.5,1181.09,1493.14,1181.09,80,4992.8,4,Loss,-4992.8,,,,,Daily,INR,-4992.8,Closed,99480
 19/09/2025,Laurus Labs,Long,937.5,,,891.55,109,102187.5,-1,Loss,-5008.55,,,,,Daily,INR,-5008.55,Closed,102187.5
+22/09/2025,Flair Writing Industries,Long,339.45,318.23,424.33,318.23,250,5305,4,Loss,-5305,,,,,Daily,INR,-5305,Closed,84862.5
 22/09/2025,Torrent Pharmaceuticals,Long,3650,,,3498.2,33,120450,-1,Loss,-5009.4,,,,,Daily,INR,-5009.4,Closed,120450
 03/10/2025,VST Tillers Tractors,Long,5250,,,5390.67,24,126000,-1,Profit,3376.08,,,,,Daily,INR,3376.08,Closed,126000
+03/10/2025,railtel corporation,Long,393.5,,,374.55,250,98375,-1,Loss,-4737.5,,,,,Daily,INR,-4737.5,Closed,98375
 07/10/2025,Bata,Long,1220.73,,,1180.23,100,122073,-1,Loss,-4050,,,,,Daily,INR,-4050,Closed,122073
 07/10/2025,Laxmi Organic Industries,Long,214.91,,,205.97,568,122068.88,-1,Loss,-5077.92,,,,,Daily,INR,-5077.92,Closed,122068.88
 09/10/2025,Supriya Lifescience,Long,721,,,,156,112476,-1,,,,,,,Daily,INR,0,,112476
 14/10/2025,Sammaan Capital,Long,162.99,,,,720,117352.8,-1,,,,,,,Daily,INR,0,,117352.8
-14/10/2025,Aegis Logistics,Long,808,,,,147,118776,-1,,,,,,,Daily,INR,0,,118776
-17/10/2025,Avalon Technologies,Long,1178,,,1122.57,100,117800,-1,Loss,-5543,,,,,Daily,INR,-5543,Closed,117800
-23/10/2025,SBFC Finance,Long,113.9,,,,1462,166521.8,-1,,,,,,,Daily,INR,0,,166521.8
-24/10/2025,Manaksia Coated Metals & Ind,Long,160.13,,,,745,119296.85,-1,,,,,,,Daily,INR,0,,119296.85
-17/09/2025,India pesticides,Long,235.84,,,219.77,333,78534.72,-1,Loss,-5351.31,,,,,Daily,INR,-5351.31,Closed,78534.72
-17/09/2025,karur vysya bank,Long,219,,,209.26,500,109500,-1,Loss,-4870,,,,,Daily,INR,-4870,Closed,109500
-03/10/2025,railtel corporation,Long,393.5,,,374.55,250,98375,-1,Loss,-4737.5,,,,,Daily,INR,-4737.5,Closed,98375
+14/10/2025,Aegis Logistics,Long,808,,,775.05,147,118776,-1,Loss,-4843.65,VPC,SL Hit,,,Daily,INR,-4843.65,Closed,118776
 16/10/2025,Ramky infrastructure,Long,645.5,,,,156,100698,-1,,,,,,,Daily,INR,0,,100698
 16/10/2025,Mangalore Refinery,Long,114.05,,,,862,98311.1,-1,,,,,,,Daily,INR,0,,98311.1
+17/10/2025,Avalon Technologies,Long,1178,,,1122.57,100,117800,-1,Loss,-5543,VPC,SL Hit,it went 1:3 but then revert and SL hit ,,Daily,INR,-5543,Closed,117800
+23/10/2025,SBFC Finance,Long,113.9,,,,1462,166521.8,-1,,,,,,,Daily,INR,0,,166521.8
+24/10/2025,Manaksia Coated Metals & Ind,Long,160.13,,,152.7,745,119296.85,-1,Loss,-5535.35,VPC,SL Hit,,,Daily,INR,-5535.35,Closed,119296.85
+29/10/2025,TD Power System,Long,647.5,,,730.77,183,118492.5,-1,Profit,15238.41,VPC,Trailing Stop Loss Hit reach 1:5,it went 1:5 but then revert and trailing SL hit same day where that movement was huge with big volume ,,Daily,INR,15238.41,Closed,118492.5
+30/10/2025,Tatva Chintan Pharma,Long,1355,,,,87,117885,-1,,,,,,,Daily,INR,0,,117885
